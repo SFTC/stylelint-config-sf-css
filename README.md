@@ -1,4 +1,3 @@
-
 # stylelint-config-css
 
 This package includes the shareable Stylelint configuration used by SF-iTech.
@@ -28,10 +27,11 @@ Then create a file named `.stylelintrc.json` with following contents in the root
 }
 ```
 
-That's it! You can override the settings from `stylelint-config-sf-css` by editing the `.stylelintrc.json` file. 
+That's it! You can override the settings from `stylelint-config-sf-css` by editing the `.stylelintrc.json` file.
+
+You also need to download a plugin `stylelint` in `VScode`
 
 Learn more about css order [styleint-order](https://github.com/hudochenkov/stylelint-order/blob/master/README.md) on the stylelint-order website.
-
 
 ## License
 
